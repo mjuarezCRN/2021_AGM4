@@ -1,0 +1,46 @@
+body{
+  background-image: url(img/chainsaw.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0;
+
+
+}
+
+#titulo{
+  font-family: Bubblegum Sans;
+  font-size: 40px;
+  text-align: center;
+  color: black;
+  margin-top: 50px;
+}
+
+#contenidor{
+  height: 500px;
+  width: 1900px;
+  background-color: eal;
+  display: block;
+  margin: auto;
+  clear: both;
+  margin-top: 100px;
+
+}
+
+.botones{
+  height: 100px;
+  width: 100px;
+  margin: 85px;
+  float: left;
+  color: white;
+  display: inline-block;
+  line-height: 100px;
+  background-image: url(img/denji.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#ocho{
+  clear: both;
+  float: left;
+}
