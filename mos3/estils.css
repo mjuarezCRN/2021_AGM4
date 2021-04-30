@@ -1,0 +1,51 @@
+body{
+  background-color: FFFFCC;
+  margin: 0;
+  padding: 0
+}
+h1{
+  font-size:50px;
+  font-family: monospace;
+  letter-spacing: 15px;
+}
+div {
+  background-color: purple;
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  font-size: 100px;
+  text-align: center;
+  line-height: 200px;
+  color: orange
+}
+
+#un{
+  background-color: DDDD00;
+  font-size: 150px;
+}
+#dos{
+  background-color: silver;
+  font-size: 50px;
+  color: black
+}
+
+}
+#tres{
+  width: 500px;
+  height: 500px:;
+  border-radius: 100px ;
+
+}
+
+#quatre{
+  border-radius: 200px 160px 350px 500px;
+}
+
+#cinc{
+  background-color: FF9966;
+  border: solid  green 5px;
+  color: white;
+  font-size: 15px;
+  letter-spacing: 0px;
+  border-radius: 200px 200px 300px 200px
+}

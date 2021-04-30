@@ -1,0 +1,28 @@
+div{
+  width: 200px;
+  height: 200px;
+  color: white;
+  font-size: 30px;
+  float: left;
+  margin: 10px
+}
+
+#uno{
+  background-color: navy
+}
+
+#dos{
+  background-color: blue;
+  position: absolute;
+  top: 20px;
+  left:50px;
+
+}
+
+#tres{
+  background-color: cyan
+}
+
+#quatro{
+  background-color: lightblue
+}
