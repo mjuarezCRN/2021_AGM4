@@ -1,0 +1,45 @@
+body{
+  background-color: cyan;
+
+}
+
+#contenedor{
+  height: 800px;
+  background-color: white
+}
+#titulo{
+  text-align: center;
+  font-weight: bold;
+
+}
+
+#img1{
+  width: 350px;
+  float: left;
+  margin: 0 10px 0 8px
+}
+
+#img2{
+  width: 300px;
+  margin: 0 10px 0 8px;
+  float: right;
+
+}
+
+#texto1
+{
+  margin-left: 300px;
+  text-align: left;
+  font-size: 15px;
+}
+
+#texto2
+{
+  text-align: justify;
+  margin-right: 230px;
+  font-size: 15px;
+}
+
+#center{
+  text-align: center;
+}
