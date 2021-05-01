@@ -15,7 +15,9 @@ body{
   background-color: orange;
 }
 
-
+audio{
+  opacity: 50%;
+}
 
 #contenidor{
   height: 500px;
